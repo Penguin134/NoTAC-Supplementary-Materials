@@ -1,2 +1,3 @@
 # NoTAC-Supplementary-Materials
-Supplementary Materials NoTAC: A Noise-Tolerance Automatic Cleaning Framework for Bone Marrow Karyotyping Data
+
+Supplementary Materials for the IEEE JBHI paper "NoTAC: A Noise-Tolerance Automatic Cleaning Framework for Bone Marrow Karyotyping Data". 
